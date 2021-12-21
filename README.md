@@ -1,2 +1,2 @@
-# Coursera_Capstone
-Created for Coursera Capstone Project.
+# Python Projects
+
